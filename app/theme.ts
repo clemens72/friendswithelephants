@@ -89,7 +89,7 @@ const theme = createTheme({
       fontWeight: 400,
       letterSpacing: '0.00938em',
       lineHeight: 1.7,
-      color: '#FFFFFF',
+      color: '#666666',
     },
     body2: {
       fontFamily: '"Inter", "Helvetica Neue", Arial, sans-serif',
